@@ -27,7 +27,7 @@ header h1 {
 
 /* Container principal */
 .container {
-    max-width: 1000px;
+    max-width: 500px;
     margin: 0 auto;
     padding: 20px;
     background-color: #ffffff; /* Fundo branco para o conteúdo */
